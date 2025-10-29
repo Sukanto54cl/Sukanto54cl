@@ -14,7 +14,7 @@ I love working at the intersection of **data engineering, GIS, and environmental
   Sentinel-2, Landsat; supervised/unsupervised classification; land-use/land-cover (LULC) change analysis and validation.  
 
 -  **Geospatial Automation & Analysis:**  
-  ArcGIS Pro, QGIS, ERDAS Imagine; automated ETL pipelines with Python (`GeoPandas`, `Rasterio`, `GDAL`, `OWSLib`).  
+  QGIS, ArcGIS Pro, QGIS, ERDAS Imagine; automated ETL pipelines with Python (`GeoPandas`, `Rasterio`, `GDAL`, `OWSLib`).  
 
 -  **Database Management:**  
   PostgreSQL/PostGIS, DuckDB, ArcGIS Enterprise; spatial SQL, data QA/QC, and metadata standardization (FAIR principles).  
