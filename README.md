@@ -38,7 +38,7 @@ I love working at the intersection of **data engineering, GIS, and environmental
 ## **Let’s Connect**
 📍 Dresden, Germany  
 📧 [sukantodas1993@gmail.com](mailto:sukantodas1993@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sukanto-das/) • [GitHub](https://github.com/Sukanto54cl)
+🔗 [LinkedIn](https://www.linkedin.com/in/sukanto-das/) • [GitHub](https://github.com/Sukanto54cl) • [Portfolio](https://sukanto54cl.github.io/portfolio/)
 
 ---
 
