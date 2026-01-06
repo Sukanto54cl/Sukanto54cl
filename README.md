@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **Sukanto Das**
-![Profile Views](https://komarev.com/ghpvc/?username=Sukanto54cl&style=flat-square)
 
 *Geospatial Data Engineer | Remote Sensing & Environmental Data Analytics*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sukanto54cl&style=flat-square)
 
 ---
 
