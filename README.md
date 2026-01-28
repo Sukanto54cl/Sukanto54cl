@@ -2,7 +2,7 @@
 
 *Geospatial Data Engineer | Remote Sensing & Environmental Data Analytics*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sukanto54cl&style=flat-square)
+![visitors](https://komarev.com/ghpvc/?username=Sukanto54cl&style=flat-square)
 
 ---
 
