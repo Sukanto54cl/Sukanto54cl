@@ -43,6 +43,29 @@ Building scalable, reproducible geospatial workflows at the intersection of data
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanto54cl&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sukanto54cl&theme=github" alt="GitHub profile summary">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sukanto54cl&hide_border=true&theme=github-dark">
+  <img src="https://streak-stats.demolab.com/?user=Sukanto54cl&hide_border=true&theme=default" alt="Contribution streak">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sukanto54cl&hide_border=true&theme=github-compact">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukanto54cl&hide_border=true&theme=github-light" alt="Contribution activity graph">
+</picture>
+
+</div>
+
+---
+
 ## Let's Connect
 📍 Dresden, Germany  
 📧 [sukantodas1993@gmail.com](mailto:sukantodas1993@gmail.com)  
